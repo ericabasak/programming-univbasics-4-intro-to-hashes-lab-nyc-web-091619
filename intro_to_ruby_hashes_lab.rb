@@ -41,7 +41,7 @@ end
 
 def my_hash_creator(key, value)
   # return a hash that includes the key and value parameters passed into this method
-  return creater = {:name => "Grace Hopper"} === {:1 => 2}
+  creater = {:name => "Grace Hopper"}
 end
 
 
