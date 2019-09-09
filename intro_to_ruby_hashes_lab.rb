@@ -55,7 +55,6 @@ def read_from_hash(hash, key)
   if {name: :"Steve", :name}
 else
   return nil
-  
 end
 
 
