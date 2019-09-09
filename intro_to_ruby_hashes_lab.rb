@@ -52,6 +52,10 @@ end
 
 def read_from_hash(hash, key)
   # return the correct value using the hash and key parameters
+  if {name: :"Steve", :name}
+else
+  return nil
+  
 end
 
 
