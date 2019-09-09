@@ -31,7 +31,11 @@ end
 
 def id_generator
   # return a hash with a key :id assigned to positive integer
+  return new_id = {:id => 2}
 end
+
+
+
 
 
 
